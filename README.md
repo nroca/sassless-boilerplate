@@ -1,4 +1,4 @@
-# SassLess-Scaffolding
+# SassLess-Boilerplate
 
 Based on article by sitepoint @ http://www.sitepoint.com/architecture-sass-project/
 
